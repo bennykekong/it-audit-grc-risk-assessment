@@ -238,6 +238,22 @@ A mature security program requires coordination between:
 
 The assessment strengthened my ability to identify control weaknesses, evaluate cybersecurity risks, and translate audit findings into practical security recommendations.
 
+## 📸 Project Screenshots
+
+### 1. People & Organizational Controls
+
+![People and Organizational Controls](screenshots/01-people-organizational-controls.png)
+
+### 2. Physical & Technological Controls
+
+![Physical and Technological Controls](screenshots/02-physical-technological-controls.png)
+
+### 3. Assessment Result — 30/30
+
+![Assessment Result 30 of 30](screenshots/03-assessment-result-30-of-30.png)
+
+---
+
 ---
 
 ## 📄 Project Evidence
