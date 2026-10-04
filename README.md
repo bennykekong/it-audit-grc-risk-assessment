@@ -255,13 +255,17 @@ The assessment strengthened my ability to identify control weaknesses, evaluate 
 ---
 
 ---
-
 ## 📄 Project Evidence
 
 The completed IT Audit Checklist is included in this repository as supporting evidence.
 
+[📊 View IT Audit Checklist](IT%20Audit%20Checklist..xlsx)
+
 **Assessment result:** 30/30
 
+[🏆 View Assessment Result](screenshots/03-assessment-result-30-of-30.png)
+
+---
 ---
 
 ## 👨‍💻 Author
